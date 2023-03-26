@@ -6,6 +6,7 @@ I scrambled this together while watching the OWL2023 Pro-Am series on YouTube Li
 
 # Install
 1. Install Python >3 (project used Python 3.10)
-2. `cd ./owl-token-copier`
+2. Clone the repo
+3. `cd ./owl-token-copier`
 4. `pip install google-api-python-client google-auth-httplib2 pyperclip tqdm python-dotenv`
-3. python main.py
+5. python main.py
